@@ -14,3 +14,7 @@ Sample website with plenty of files for demos
 can deployed on any web server
 
 ## How to contribute
+
+### Copyright 
+
+Git Training HFR 2017
