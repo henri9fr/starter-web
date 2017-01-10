@@ -19,4 +19,4 @@ Please fork this repository and issue pull request for review
 
 ### Copyright 
 
-Git Training HFR 2017
+Git Training HFR 2017 All rights reserved.
