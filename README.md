@@ -14,6 +14,7 @@ Sample website with plenty of files for demos
 can deployed on any web server
 
 ## How to contribute
+Please fork this repository and issue pull request for review 
 
 ### Copyright 
 
